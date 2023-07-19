@@ -1,0 +1,17 @@
+.foto{
+    width: 150px;
+}
+body {
+    background: hwb(0 100% 0%);
+}
+.blok_foto {
+    background: hwb(0 0% 0%);
+    position: fixed;
+    top: 0;
+    right: 0;
+    width: 200px;
+    height: 200px;
+    border-radius: 10px;
+    padding: 10px;
+    text-align: center;
+}

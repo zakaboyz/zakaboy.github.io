@@ -1,0 +1,30 @@
+.foto{
+    width: 150px;
+}
+body {
+    background: hsl(0, 0%, 100%);
+}
+.blok_foto {
+    background: #68f2fff9;
+    position: fixed;
+    top: 0;
+    right: 0;
+    width: 200px;
+    height: 258px;
+    border-radius: 10px;
+    padding: 10px;
+    text-align: center;
+}
+h1 {
+    color: hsl(0, 0%, 0%);
+}
+div {
+    color:black
+}
+
+.menu {
+    text-align: center;
+    font-size: 18px;
+    padding-top: 8pt;
+}
+

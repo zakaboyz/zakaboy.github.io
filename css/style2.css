@@ -1,0 +1,23 @@
+.foto{
+    width: 150px;
+}
+body {
+    background: hsl(0, 0%, 100%);
+}
+.blok_foto {
+    background: hwb(195 0% 0% / 0.976);
+    position: fixed;
+    top: 0;
+    right: 0;
+    width: 300px;
+    height: 200px;
+    border-radius: 10px;
+    padding: 10px;
+    text-align: center;
+}
+h1 {
+    color: hsl(0, 0%, 0%);
+}
+div {
+    color:black
+}
